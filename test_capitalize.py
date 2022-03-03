@@ -5,4 +5,4 @@ def capitalize_string(s):
     return s.capitalize()
 
 def test_capitalize_String():
-    assert capitalize_string('sda') == 'ssdaw'
+    assert capitalize_string('Test') == 'test'
